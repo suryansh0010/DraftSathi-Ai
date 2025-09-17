@@ -497,7 +497,7 @@ const DraftSathiLanding = () => {
           
           <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center">
             <p className="text-primary-foreground/60 text-sm">
-              © 2024 DraftSathi AI. Demo mode: Files processed locally. Privacy policy applies in production.
+              © 2025 DraftSathi AI. Files processed locally. Privacy policy applies in production.
             </p>
           </div>
         </div>
