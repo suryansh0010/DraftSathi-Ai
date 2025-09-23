@@ -17,7 +17,7 @@ import {
   Shield,
   Lock,
   Star
-} from 'lucide-react'; 
+} from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
