@@ -3,7 +3,7 @@
 draftSathi-ai is an AI-powered tool designed to help you generate drafts and content efficiently. This guide will walk you through setting up the project and understanding how it works.
 
 ## Features
-
+ 
 - AI-driven content generation
 - Easy-to-use interface
 - Customizable prompts
